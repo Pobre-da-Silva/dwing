@@ -1,24 +1,25 @@
 {
-  "name": "node-tinywm",
+  "name": "dwing",
   "version": "1.0.0",
-  "description": "TinyWM written in node.js",
-  "main": "tinywm.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "A minimal desktop environment focusing on unproductivity and sluggishness.",
+  "main": "dwing.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Airblader/node-tinywm"
+    "url": "https://github.com/Pobre-da-Silva/dwing"
   },
   "keywords": [
-    "tinywm",
+    "slow",
     "node",
     "window",
     "manager",
-    "x11"
+    "x11",
+    "desktop",
+    "environment",
+    "unproductivity",
+    "sluggishness"
   ],
-  "author": "Ingo Bürk",
-  "license": "Public Domain",
+  "author": "Pobre-da-Silva",
+  "license": "GPL-3.0-only",
   "dependencies": {
     "x11": "^1.0.3"
   }
