@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "dwing",
   "version": "1.0.0",
   "description": "A minimal desktop environment focusing on unproductivity and sluggishness.",
@@ -21,6 +22,7 @@
   "author": "Pobre-da-Silva",
   "license": "GPL-3.0-only",
   "dependencies": {
+    "slugdown": "^1.0.2",
     "x11": "^1.0.3"
   }
 }
