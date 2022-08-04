@@ -1,12 +1,12 @@
 {
   "type": "module",
   "name": "dwing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A minimal desktop environment focusing on unproductivity and sluggishness.",
   "main": "dwing.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Pobre-da-Silva/dwing"
+    "url": "git+https://github.com/Pobre-da-Silva/dwing.git"
   },
   "keywords": [
     "slow",
@@ -24,5 +24,13 @@
   "dependencies": {
     "slugdown": "^1.0.2",
     "x11": "^1.0.3"
+  },
+  "bugs": {
+    "url": "https://github.com/Pobre-da-Silva/dwing/issues"
+  },
+  "homepage": "https://github.com/Pobre-da-Silva/dwing#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
